@@ -1,3 +1,5 @@
 tensorflow
 pillow
 streamlit
+numpy
+pandas
