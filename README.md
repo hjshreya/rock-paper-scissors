@@ -1,3 +1,4 @@
+This application allows you to upload images of Rock, Paper, or Scissors and determines the winner.
 
 ![Screenshot 2024-08-29 at 4 31 10 PM](https://github.com/user-attachments/assets/a4c06427-ceb4-4de2-9917-d90a147ec6d5)
 ![Screenshot 2024-08-29 at 4 32 20 PM](https://github.com/user-attachments/assets/9c3b848c-b251-4359-b18b-50ab02109e7a)
